@@ -1,0 +1,5 @@
+public class min {
+        public void start(){
+            System.out.println("Hello World");
+        }
+}
